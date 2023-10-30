@@ -1,5 +1,5 @@
 backend/node_modules
 backend/config
 documentation
-/fontend/node_modules
-/fontend/.env
+frontend/node_modules
+frontend/.env
